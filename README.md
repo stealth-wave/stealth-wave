@@ -1,9 +1,41 @@
-# 😎 Hello I am stealthwave. 
+# 😎 Stealthwave
 
-## Male. I make stupid websites and stuff. Hopefully someday I will do something to change the world but that is a big goal. 
+## I am a teen developer and i'm interested in web development. 
 
-### I know HTML, CSS, Javascript, Discord.js, Nuxt.js, & The fundamentals of React JSX.  
+### Here are some of my languages: 
 
+• HTML (Expert)
+• CSS (Expert)
+• Vanilla JS (Beginner) - Intermediate) 
+• Discord.js (Intermediate) 
+• Nuxt.js (Beginner - Intermediate) 
+• React (Just Started) 
+• React JSX (Just Started) 
+• React TSX (Just Started) 
+• Vue.js (Beginner) 
+• PHP (Starting Soon) 
+
+### Here are some of my technologies: 
+
+• Google Sheets (Expert) 
+• Mongo DB (Beginner) 
+• LastFM api (Beginner) 
+
+### Main Skills: 
+
+• Discord Bots
+• IOS 
+• MacOS
+• Windows
+• Marketing (Advertising, Design) 
+
+### Hobies: 
+
+• Golf 
+• Tennis 
+• Sleeping
+• Eating
+• Spending 12 hours at my desk in the dark. 
 
 ## 📫 You probably don't want to contact me but if you want to here are some links: 
 
