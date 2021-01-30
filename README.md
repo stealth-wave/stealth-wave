@@ -1,10 +1,13 @@
-# 👋 Hey, I'm Stealthwave
+# 😎 Hello I am stealthwave. 
 
-## He/Him. Software Developer and Student from the U.S. 
+## Male. I make stupid websites and stuff. Hopefully someday I will do something to change the world but that is a big goal. 
 
-###### I am proficient in html, css, discord.js. I'm a nuxt.js, vue.js, & mongo db novice. 
+### I know HTML, CSS, Javascript, Discord.js, Nuxt.js, & The fundamentals of React JSX.  
 
-## 📫 Reach me! 
+
+## 📫 You probably don't want to contact me but if you want to here are some links: 
+
+###### I'll respond fastest on discord but feel free to dm me on twitter or whatever. 
 
 ###### Discord: Stealthwave#0001
 ###### Twitter: Stealthwave1 
