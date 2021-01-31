@@ -14,12 +14,15 @@
 • React TSX (Just Started) 
 • Vue.js (Beginner) 
 • PHP (Starting Soon) 
+• Bootstrap (Beginner) 
+• Buefy / Bulma (Beginner) 
 
 ### Here are some of my technologies: 
 
 • Google Sheets (Expert) 
 • Mongo DB (Beginner) 
 • LastFM api (Beginner) 
+• Firebase (Intermediate) 
 
 ### Main Skills: 
 
