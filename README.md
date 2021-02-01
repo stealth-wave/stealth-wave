@@ -24,24 +24,35 @@
 ### Here are some of my technologies: 
 
 • Google Sheets (Expert) 
+
 • Mongo DB (Beginner) 
+
 • LastFM api (Beginner) 
+
 • Firebase (Intermediate) 
 
 ### Main Skills: 
 
 • Discord Bots
+
 • IOS 
+
 • MacOS
+
 • Windows
+
 • Marketing (Advertising, Design) 
 
 ### Hobies: 
 
 • Golf 
+
 • Tennis 
+
 • Sleeping
+
 • Eating
+
 • Spending 12 hours at my desk in the dark. 
 
 ## 📫 You probably don't want to contact me but if you want to here are some links: 
