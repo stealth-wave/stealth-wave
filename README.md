@@ -5,17 +5,21 @@
 ### Here are some of my languages: 
 
 • HTML (Expert)
+
 • CSS (Expert)
+
 • Vanilla JS (Beginner) - Intermediate) 
+
 • Discord.js (Intermediate) 
+
 • Nuxt.js (Beginner - Intermediate) 
-• React (Just Started) 
-• React JSX (Just Started) 
-• React TSX (Just Started) 
+
 • Vue.js (Beginner) 
-• PHP (Starting Soon) 
+
 • Bootstrap (Beginner) 
+
 • Buefy / Bulma (Beginner) 
+
 
 ### Here are some of my technologies: 
 
