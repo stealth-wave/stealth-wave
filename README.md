@@ -1,63 +1,33 @@
-# 😎 Stealthwave
+# 🤠 Stealthwave
 
 ## I am a teen developer and i'm interested in web development. 
 
-### Here are some of my languages: 
+### Languages: 
 
-• HTML (Expert)
+- HTML
+- CSS
+- Javascript
 
-• CSS (Expert)
+### Frameworks
 
-• Vanilla JS (Beginner) - Intermediate) 
-
-• Discord.js (Intermediate) 
-
-• Nuxt.js (Beginner - Intermediate) 
-
-• Vue.js (Beginner) 
-
-• Bootstrap (Beginner) 
-
-• Buefy / Bulma (Beginner) 
+- Nuxt.js
+- Bulma 
+- Tailwind CSS
 
 
-### Here are some of my technologies: 
+### Libraries
 
-• Google Sheets (Expert) 
+- Discord.js
+- Materialize CSS
 
-• Mongo DB (Beginner) 
+### Technologies
 
-• LastFM api (Beginner) 
+- Visual Studio Code
+- Google Sheets
+- Github 
+- Firebase
 
-• Firebase (Intermediate) 
-
-### Main Skills: 
-
-• Discord Bots
-
-• IOS 
-
-• MacOS
-
-• Windows
-
-• Marketing (Advertising, Design) 
-
-### Hobies: 
-
-• Golf 
-
-• Tennis 
-
-• Sleeping
-
-• Eating
-
-• Spending 12 hours at my desk in the dark. 
-
-## 📫 You probably don't want to contact me but if you want to here are some links: 
-
-###### I'll respond fastest on discord but feel free to dm me on twitter or whatever. 
+## Contact Me
 
 ###### Discord: Stealthwave#0001
 ###### Twitter: Stealthwave1 
